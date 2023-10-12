@@ -4,7 +4,7 @@ font-family: Calibri;
 padding: 5px;
 border: 3px solid red:
 border-radius: 10px;
-font-size: clamp(20px, 209rem, 600px);
+font-size: clamp(20px, 209rem, 60px);
 color: red;
 margin: 10px 5px;
 }
